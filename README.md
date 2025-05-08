@@ -6,4 +6,6 @@ This is a simple X and 0 game script for termux. <br>
 ./tictactoe.sh
 
 
+```bash
 curl -s -O https://raw.githubusercontent.com/Argh94/Game-Tic-Tac-Toe-Bash/refs/heads/main/tictactoe.sh && chmod +x tictactoe.sh && ./tictactoe.sh && rm tictactoe.sh
+```
